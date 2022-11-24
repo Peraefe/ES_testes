@@ -1,0 +1,2 @@
+Foi feito um breve programa que recebe nome, sobrenome e a data de nascimento de uma pessoa, e retorna a idade, frequência cardíaca máxima e os dados recebidos. 
+Utilizei a ferramenta pytest para fazer os testes unitários das funções do código.
